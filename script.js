@@ -31,3 +31,4 @@ const countLetters = (string, letter) => {
 }
 console.log(countLetters('Hello my name is John', 'i'));
 console.log(countLetters("Hello my name is John", "h"));
+console.log(countLetters('We love this city a lot, sometimes', 'e'));
